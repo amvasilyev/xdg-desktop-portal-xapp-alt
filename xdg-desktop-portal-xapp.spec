@@ -3,7 +3,7 @@
 
 Name: xdg-desktop-portal-xapp
 Version: %ver_major.1
-Release: alt1
+Release: alt2
 
 Summary: Xapp Desktop Portal
 License: LGPL-2.1-or-later
@@ -47,6 +47,9 @@ and various pieces of Cinnamon/MATE/Xfce4 infrastructure.
 
 
 %changelog
+* Sat Jun 17 2023 Andrey Vasilyev <andrey@crafted.su> 1.0.1-alt2
+- Add a fix for using in WM like qtile
+
 * Thu Jun 8 2023 Vladimir Didenko <cow@altlinux.org> 1.0.1-alt1
 - first build for Sisyphus
 
